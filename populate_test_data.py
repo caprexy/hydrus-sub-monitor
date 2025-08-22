@@ -1,14 +1,21 @@
 #!/usr/bin/env python3
+"""
+Test data population script for Hydrus Sub Monitor
+Uses the MVC database model for consistency
+"""
 import sqlite3
 import json
 import datetime
 import random
 
+from src.models.database import DatabaseManager
+
 def add_20_new_queries_and_update_times():
     """Add 20 new queries and update all last file times with random values"""
     
-    # Connect to database
-    conn = sqlite3.connect("hydrus_subscriptions.db")
+    # Use the MVC database manager
+    db_manager = DatabaseManager()
+    conn = sqlite3.connect(db_manager.db_path)
     cursor = conn.cursor()
     
     # Additional query templates for the new rows
@@ -172,8 +179,9 @@ def add_20_new_queries_and_update_times():
 def update_last_file_times():
     """Update existing queries with last file times without adding new items"""
     
-    # Connect to database
-    conn = sqlite3.connect("hydrus_subscriptions.db")
+    # Use the MVC database manager
+    db_manager = DatabaseManager()
+    conn = sqlite3.connect(db_manager.db_path)
     cursor = conn.cursor()
     
     try:
@@ -227,8 +235,9 @@ def update_last_file_times():
 def populate_test_data():
     """Populate the database with test subscription data"""
     
-    # Connect to database
-    conn = sqlite3.connect("hydrus_subscriptions.db")
+    # Use the MVC database manager
+    db_manager = DatabaseManager()
+    conn = sqlite3.connect(db_manager.db_path)
     cursor = conn.cursor()
     
     # Create tables if they don't exist

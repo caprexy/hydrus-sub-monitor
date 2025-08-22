@@ -1,0 +1,18 @@
+{
+  "api": {
+    "api_key": "80d06c01ec7f96ba3fcf22493acdccd0e899d2f87767c80e1bc46acaa0887eec",
+    "base_url": "http://127.0.0.1:45869",
+    "timeout": 10,
+    "enabled": true
+  },
+  "database": {
+    "db_path": "hydrus_subscriptions.db",
+    "backup_enabled": true,
+    "backup_count": 5
+  },
+  "ui": {
+    "default_ack_days": 30,
+    "auto_refresh_interval": 0,
+    "column_widths": {}
+  }
+}

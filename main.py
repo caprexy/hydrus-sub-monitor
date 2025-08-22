@@ -217,7 +217,7 @@ class ApiWorker(QThread):
         try:
             headers = {"Hydrus-Client-API-Access-Key": self.api_key}
             response = requests.get(
-                'http://127.0.0.1:45869/manage_subscriptions/get_subscriptions',
+                'http://127.0.0.1:45869/get_subscriptions',
                 headers=headers,
                 timeout=10
             )

@@ -1,0 +1,681 @@
+2025-08-22 11:42:20,448 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 11:42:20,449 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 11:42:20,449 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 11:42:20,588 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 11:42:20,588 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 11:42:20,747 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:42:20,747 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:42:20,760 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 11:42:28,517 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:42:28,519 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:42:31,082 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:42:31,088 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:42:39,319 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:42:39,320 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:42:52,453 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 11:42:52,453 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 11:42:52,454 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 11:42:52,574 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 11:42:52,574 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 11:42:52,734 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:42:52,734 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:42:52,749 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 11:44:47,952 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 11:44:47,952 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 11:44:47,952 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 11:44:48,123 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 11:44:48,123 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 11:44:48,301 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:44:48,303 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:44:48,318 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 11:44:51,213 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:44:51,213 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:44:53,622 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:44:53,623 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:44:55,580 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:44:55,581 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:45:00,673 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:45:00,674 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:45:02,290 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:45:02,292 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:45:57,091 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 11:45:57,091 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 11:45:57,091 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 11:45:57,210 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 11:45:57,210 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 11:45:57,372 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:45:57,373 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:45:57,387 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 11:45:59,215 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:45:59,216 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:45:59,223 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:01,574 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:01,575 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:01,580 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:03,206 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:03,208 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:03,212 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:04,929 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:04,931 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:04,939 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:07,581 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:07,582 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:07,593 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:10,670 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:10,671 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:10,677 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:12,738 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:12,739 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:12,745 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:14,929 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:14,930 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:14,936 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:16,940 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:16,941 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:16,949 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:46:19,440 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:46:19,441 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:46:19,446 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:48:08,021 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 11:48:08,021 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 11:48:08,021 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 11:48:08,175 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 11:48:08,175 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 11:48:08,351 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:48:08,352 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:48:08,365 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 11:48:12,688 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:48:12,690 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:48:12,695 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:48:15,699 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:48:15,701 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:48:15,707 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:49:59,040 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 11:49:59,041 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 11:49:59,041 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 11:49:59,166 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 11:49:59,166 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 11:49:59,318 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:49:59,318 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:49:59,328 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 11:50:03,112 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:50:03,115 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:50:03,123 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:50:04,919 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:50:04,920 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:50:04,926 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:50:06,918 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:50:06,920 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:50:06,928 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 11:50:19,393 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 11:50:19,395 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 11:50:19,405 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 12:08:35,865 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:08:35,866 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 12:08:35,866 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:08:36,007 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:08:36,007 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:08:36,177 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:36,178 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:36,190 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:08:38,814 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:38,815 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:40,330 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:40,332 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:40,969 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:40,970 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:41,295 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:41,297 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:41,532 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:41,533 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:41,761 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:41,762 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:41,970 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:41,971 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:44,022 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:44,023 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:44,029 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 12:08:45,708 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:45,709 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:08:45,721 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 12:08:47,526 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:08:47,526 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:11:28,804 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:11:28,805 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 12:11:28,805 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:11:28,928 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:11:28,928 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:11:29,090 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:11:29,091 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:11:29,106 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:11:31,637 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:11:31,639 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:11:34,382 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:11:34,384 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:11:45,157 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:11:45,158 - HydrusSubMonitor - INFO - API enabled: False
+2025-08-22 12:11:45,158 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:11:45,302 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:11:45,302 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:11:45,445 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:11:45,447 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:11:45,456 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:14:25,548 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:14:25,549 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:14:25,549 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:14:25,713 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:14:25,713 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:14:25,889 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:14:25,890 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:14:25,904 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:14:28,240 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:14:28,242 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:14:28,249 - HydrusSubMonitor - ERROR - API returned status code: 404 (Endpoint not found - check Hydrus version)
+2025-08-22 12:31:56,452 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:31:56,452 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:31:56,452 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:31:56,555 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:31:56,555 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:31:56,696 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:31:56,697 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:31:56,708 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:32:01,662 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:32:01,662 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:32:01,662 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:32:01,753 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:32:01,753 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:32:01,879 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:32:01,879 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:32:01,890 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:32:08,587 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:32:08,589 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:32:08,614 - HydrusSubMonitor - ERROR - API returned status code: 404 (Endpoint not found - check Hydrus version)
+2025-08-22 12:33:28,815 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:33:28,815 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:33:28,815 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:33:28,935 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:33:28,936 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:33:29,095 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:33:29,096 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:33:29,108 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:33:31,141 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:33:31,143 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:33:31,154 - HydrusSubMonitor - ERROR - API returned status code: 404 (Endpoint not found - check Hydrus version)
+2025-08-22 12:35:49,398 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:35:49,398 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:35:49,398 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:35:49,517 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:35:49,517 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:35:49,674 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:35:49,675 - HydrusSubMonitor - INFO - Loaded 4 subscriptions
+2025-08-22 12:35:49,688 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:35:51,287 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:35:51,288 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:35:51,288 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:35:51,288 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:35:51,288 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:35:51,288 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:35:51,298 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:35:51,298 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:35:51 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:35:55 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '954', 'Content-Disposition': 'inline'}
+2025-08-22 12:35:51,298 - HydrusSubMonitor - INFO - Response content length: 954 characters
+2025-08-22 12:35:51,299 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 0, "next_check...
+2025-08-22 12:35:51,299 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:35:51,299 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:35:51,299 - HydrusSubMonitor - INFO - Found 1 subscriptions in response
+2025-08-22 12:35:51,299 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:35:51,299 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:35:51,300 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_123551.db
+2025-08-22 12:35:51,301 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_123551.db
+2025-08-22 12:35:51,303 - HydrusSubMonitor - INFO - Successfully saved 1 subscriptions with 2 total queries to database
+2025-08-22 12:35:59,155 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:35:59,157 - HydrusSubMonitor - INFO - Loaded 1 subscriptions
+2025-08-22 12:35:59,158 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 12:36:00,944 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:36:00,945 - HydrusSubMonitor - INFO - Loaded 1 subscriptions
+2025-08-22 12:36:00,947 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 12:46:56,069 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:46:56,069 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:46:56,069 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:46:56,210 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:46:56,210 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:46:56,368 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:46:56,368 - HydrusSubMonitor - INFO - Loaded 1 subscriptions
+2025-08-22 12:46:56,376 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:47:01,339 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:47:01,340 - HydrusSubMonitor - INFO - Loaded 1 subscriptions
+2025-08-22 12:47:02,685 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:47:02,687 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:47:02,687 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:47:02,687 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:47:02,687 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:47:02,687 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:47:02,696 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:47:02,696 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:47:02 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:47:06 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:47:02,696 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:47:02,697 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:47:02,697 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:47:02,697 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:47:02,697 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:47:02,697 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:47:02,697 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:47:02,698 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124702.db
+2025-08-22 12:47:02,699 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124702.db
+2025-08-22 12:47:02,702 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:47:03,950 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:47:03,951 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:47:05,411 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:47:05,412 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:47:05,412 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:47:05,412 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:47:05,412 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:47:05,412 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:47:05,415 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:47:05,415 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:47:05 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:47:09 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:47:05,415 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:47:05,416 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:47:05,416 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:47:05,416 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:47:05,416 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:47:05,416 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:47:05,416 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:47:05,419 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124705.db
+2025-08-22 12:47:05,419 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124705.db
+2025-08-22 12:47:05,424 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:47:06,043 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:47:06,044 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:47:06,044 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:47:06,044 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:47:06,044 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:47:06,044 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:47:06 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:47:10 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:47:06,048 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:47:06,049 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:47:06,050 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124706.db
+2025-08-22 12:47:06,051 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124706.db
+2025-08-22 12:47:06,053 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:48:44,581 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:48:44,581 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:48:44,581 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:48:44,708 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:48:44,708 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:48:44,855 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:48:44,856 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:48:44,862 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:48:47,001 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:48:47,002 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:48:47,003 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:48:47,003 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:48:47,003 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:48:47,003 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:48:47,017 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:48:47,017 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:48:47 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:48:51 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:48:47,018 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:48:47,018 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:48:47,018 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:48:47,018 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:48:47,018 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:48:47,018 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:48:47,018 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:48:47,019 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124847.db
+2025-08-22 12:48:47,020 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124847.db
+2025-08-22 12:48:47,022 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:48:47,723 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:48:47,723 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:48:47,723 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:48:47,723 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:48:47,723 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:48:47,723 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:48:47 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:48:51 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:48:47,731 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:48:47,732 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124847.db
+2025-08-22 12:48:47,732 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124847.db
+2025-08-22 12:48:47,734 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:48:48,414 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:48:48,414 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:48:48,414 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:48:48,414 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:48:48,414 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:48:48,415 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:48:48,419 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:48:48,419 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:48:48 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:48:52 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:48:48,419 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:48:48,419 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:48:48,420 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:48:48,420 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:48:48,420 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:48:48,420 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:48:48,420 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:48:48,422 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124848.db
+2025-08-22 12:48:48,423 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_123551.db
+2025-08-22 12:48:48,423 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124848.db
+2025-08-22 12:48:48,426 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:48:48,923 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:48:48,924 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:48:48,924 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:48:48,924 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:48:48,924 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:48:48,924 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:48:48,932 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:48:48 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:48:52 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:48:48,933 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:48:48,936 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124848.db
+2025-08-22 12:48:48,937 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124848.db
+2025-08-22 12:48:48,939 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:48:49,344 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:48:49,345 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:48:49,345 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:48:49,345 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:48:49,345 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:48:49,345 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:48:49,356 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:48:49 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:48:53 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:48:49,357 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:48:49,359 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_124849.db
+2025-08-22 12:48:49,360 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_124702.db
+2025-08-22 12:48:49,360 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_124849.db
+2025-08-22 12:48:49,363 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:50:26,804 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:50:26,804 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:50:26,804 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:50:26,943 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:50:26,943 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:50:27,116 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:50:27,117 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:50:27,128 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:50:29,833 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:50:29,834 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:50:29,834 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:50:29,834 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:50:29,834 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:50:29,834 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:50:29 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:50:33 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:50:29,847 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:50:29,848 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125029.db
+2025-08-22 12:50:29,851 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_124705.db
+2025-08-22 12:50:29,851 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125029.db
+2025-08-22 12:50:29,855 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:50:30,652 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:50:30,652 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:50:30,652 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:50:30,652 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:50:30,652 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:50:30,652 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:50:30,657 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:50:30,657 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:50:30 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:50:34 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:50:30,657 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:50:30,657 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:50:30,657 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:50:30,658 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:50:30,658 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:50:30,658 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:50:30,658 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:50:30,659 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125030.db
+2025-08-22 12:50:30,660 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_124706.db
+2025-08-22 12:50:30,660 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125030.db
+2025-08-22 12:50:30,663 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:50:31,085 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:50:31,085 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:50:31,085 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:50:31,085 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:50:31,085 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:50:31,085 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:50:31,091 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:50:31,091 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:50:31 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:50:35 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:50:31,091 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:50:31,091 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:50:31,091 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:50:31,092 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:50:31,092 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:50:31,092 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:50:31,092 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:50:31,093 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125031.db
+2025-08-22 12:50:31,096 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_124847.db
+2025-08-22 12:50:31,097 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125031.db
+2025-08-22 12:50:31,099 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:50:33,849 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:50:33,850 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:50:33,850 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:50:33,850 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:50:33,850 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:50:33,850 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:50:33,853 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:50:33,853 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:50:33 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:50:37 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:50:33,853 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:50:33,854 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:50:33,854 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:50:33,854 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:50:33,854 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:50:33,854 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:50:33,854 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:50:33,855 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125033.db
+2025-08-22 12:50:33,856 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_124848.db
+2025-08-22 12:50:33,856 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125033.db
+2025-08-22 12:50:33,858 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:50:36,425 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:50:36,428 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:50:37,220 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:50:37,221 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:52:03,580 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:52:03,581 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:52:03,581 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:52:03,723 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:52:03,723 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:52:03,868 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:52:03,870 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:52:03,877 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:54:04,451 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:54:04,451 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:54:04,451 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:54:04,585 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:54:04,585 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:54:04,748 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:54:04,749 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:54:04,759 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:54:31,421 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:54:31,424 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:54:31,424 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:54:31,424 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:54:31,424 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:54:31,424 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:54:31,439 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:54:31,439 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:54:31 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:54:35 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:54:31,439 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:54:31,440 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:54:31,440 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:54:31,440 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:54:31,440 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:54:31,440 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:54:31,441 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:54:31,442 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125431.db
+2025-08-22 12:54:31,446 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_124849.db
+2025-08-22 12:54:31,446 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125431.db
+2025-08-22 12:54:31,450 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:54:34,177 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:54:34,177 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:54:34,178 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:54:34,178 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:54:34,178 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:54:34,178 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:54:34 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:54:38 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:54:34,182 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:54:34,185 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125434.db
+2025-08-22 12:54:34,186 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_125029.db
+2025-08-22 12:54:34,187 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125434.db
+2025-08-22 12:54:34,191 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:55:59,895 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:55:59,895 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:55:59,895 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:56:00,028 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:56:00,029 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:56:00,189 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:56:00,190 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:56:00,201 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 12:56:01,631 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:56:01,633 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:56:01,633 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:56:01,633 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:56:01,633 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:56:01,633 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:56:01 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:56:05 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:56:01,640 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:56:01,641 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125601.db
+2025-08-22 12:56:01,642 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_125030.db
+2025-08-22 12:56:01,642 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125601.db
+2025-08-22 12:56:01,644 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:56:02,237 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:56:02,237 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:56:02,237 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:56:02,237 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:56:02,237 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:56:02,237 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:56:02,242 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:56:02,242 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:56:02 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:56:06 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:56:02,242 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:56:02,242 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:56:02,242 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:56:02,243 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:56:02,243 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:56:02,243 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:56:02,243 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:56:02,247 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125602.db
+2025-08-22 12:56:02,247 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_125031.db
+2025-08-22 12:56:02,247 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125602.db
+2025-08-22 12:56:02,250 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:56:02,595 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:56:02,595 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:56:02,596 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:56:02,596 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:56:02,596 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:56:02,596 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:56:02,601 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:56:02,601 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:56:02 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:56:06 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:56:02,601 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:56:02,601 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:56:02,601 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:56:02,602 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:56:02,602 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:56:02,602 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:56:02,602 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:56:02,605 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125602.db
+2025-08-22 12:56:02,606 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125602.db
+2025-08-22 12:56:02,608 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:56:02,766 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 12:56:02,767 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 12:56:02,767 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 12:56:02,767 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 12:56:02,767 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 12:56:02,767 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 12:56:02,769 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 12:56:02,769 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 19:56:02 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 19:56:06 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2768', 'Content-Disposition': 'inline'}
+2025-08-22 12:56:02,769 - HydrusSubMonitor - INFO - Response content length: 2768 characters
+2025-08-22 12:56:02,769 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 12:56:02,770 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 12:56:02,770 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 12:56:02,770 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 12:56:02,770 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 12:56:02,770 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 12:56:02,771 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_125602.db
+2025-08-22 12:56:02,771 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_125602.db
+2025-08-22 12:56:02,773 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 12:56:05,090 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:56:05,092 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:56:05,094 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 12:56:07,508 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:56:07,510 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:56:07,513 - HydrusSubMonitor - INFO - Query display refreshed
+2025-08-22 12:56:22,545 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 12:56:22,545 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 12:56:22,545 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 12:56:22,645 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 12:56:22,645 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 12:56:22,786 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 12:56:22,789 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 12:56:22,799 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 13:01:46,573 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 13:01:46,573 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 13:01:46,573 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 13:01:46,705 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 13:01:46,705 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 13:01:46,868 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 13:01:46,869 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 13:01:46,877 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 13:01:52,478 - HydrusSubMonitor - INFO - API backup created: api_backups/api_backup_20250822_130152.db
+2025-08-22 13:01:52,479 - HydrusSubMonitor - INFO - Starting API fetch
+2025-08-22 13:01:52,481 - HydrusSubMonitor - INFO - Starting API data fetch
+2025-08-22 13:01:52,481 - HydrusSubMonitor - INFO - API URL: http://127.0.0.1:45869/manage_subscriptions/get_subscriptions
+2025-08-22 13:01:52,481 - HydrusSubMonitor - INFO - API Key: 80d06c01...a0887eec
+2025-08-22 13:01:52,481 - HydrusSubMonitor - INFO - Timeout: 10s
+2025-08-22 13:01:52,481 - HydrusSubMonitor - INFO - Sending GET request to Hydrus API...
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - Response status code: 200
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - Response headers: {'Server': 'client api/80 (635)', 'Date': 'Fri, 22 Aug 2025 20:01:52 GMT', 'Hydrus-Server': 'client api/80 (635)', 'Expires': 'Fri, 22 Aug 2025 20:01:56 GMT', 'Cache-Control': 'max-age=4', 'Content-Type': 'application/json', 'Content-Length': '2767', 'Content-Disposition': 'inline'}
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - Response content length: 2767 characters
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - Response content (first 200 chars): {"subscriptions": [{"name": "new subscription", "gug_name": "safebooru tag search", "queries": [{"query_text": "dfgdfg", "human_name": "dfgdfg", "display_name": null, "last_check_time": 1755891494, "n...
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - Successfully received 200 response, parsing JSON...
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - JSON parsed successfully. Keys: ['subscriptions', 'version', 'hydrus_version']
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - Found 2 subscriptions in response
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - First subscription: new subscription with 2 queries
+2025-08-22 13:01:52,506 - HydrusSubMonitor - INFO - Attempting to save data to database...
+2025-08-22 13:01:52,507 - HydrusSubMonitor - INFO - Database backup created: backups/hydrus_subscriptions_backup_20250822_130152.db
+2025-08-22 13:01:52,509 - HydrusSubMonitor - INFO - Removed old backup: backups/hydrus_subscriptions_backup_20250822_125033.db
+2025-08-22 13:01:52,509 - HydrusSubMonitor - INFO - Created backup before API update: backups/hydrus_subscriptions_backup_20250822_130152.db
+2025-08-22 13:01:52,511 - HydrusSubMonitor - INFO - Successfully saved 2 subscriptions with 6 total queries to database
+2025-08-22 13:02:54,764 - HydrusSubMonitor - INFO - Application starting
+2025-08-22 13:02:54,764 - HydrusSubMonitor - INFO - API enabled: True
+2025-08-22 13:02:54,764 - HydrusSubMonitor - INFO - Database path: hydrus_subscriptions.db
+2025-08-22 13:02:54,900 - HydrusSubMonitor - INFO - Main controller initialized
+2025-08-22 13:02:54,900 - HydrusSubMonitor - INFO - Main window initialized
+2025-08-22 13:02:55,084 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 13:02:55,085 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 13:02:55,100 - HydrusSubMonitor - INFO - Main window displayed
+2025-08-22 13:03:16,995 - HydrusSubMonitor - INFO - Cleaned up 0 incompatible backups
+2025-08-22 13:03:32,163 - HydrusSubMonitor - INFO - Created restore backup: hydrus_subscriptions.db.restore_backup_20250822_130332
+2025-08-22 13:03:32,165 - HydrusSubMonitor - INFO - Database restored from: api_backups/api_backup_20250822_130152.db
+2025-08-22 13:03:32,165 - HydrusSubMonitor - INFO - Loading subscription data from database
+2025-08-22 13:03:32,167 - HydrusSubMonitor - INFO - Loaded 2 subscriptions
+2025-08-22 13:03:33,455 - HydrusSubMonitor - INFO - Display refreshed after backup restore
